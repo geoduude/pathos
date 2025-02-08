@@ -4,7 +4,7 @@ return {
   "catbot_010",
   "catbot_019",
   "catbot_020",
-  
+
   "Delinquent_blueteam",
   "ESZmDjKDuyOtc3eAnTuV",
   "sejelasse13",
@@ -18,4 +18,6 @@ return {
   "Bluemooncrystalspirt",
   "catfishify",
   "WinterIsAGoodThing",
+  "panchito24023",
+  "cafter000",
 }
